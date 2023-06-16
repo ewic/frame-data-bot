@@ -25,5 +25,8 @@ build/
 # Optional eslint cache
 .eslintcache
 
+# dotenv .env
+.env
+
 # Misc
 .DS_Store
